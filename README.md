@@ -8,7 +8,7 @@ Graduando em **Engenharia da Computação** na UNINORTE. Sou entusiasta de tecno
 - 🎓 Estudante de Engenharia da Computação
 - 💻 Foco em desenvolvimento Web (Front-end & Back-end) e automação / IoT
 - ☕ Entusiasta de cafés, esportes, games e curiosidades do mundo animal
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ubirajara-filho-19682a342) | [Instagram](https://instagram.com/SEU_USUARIO)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ubirajarabruno) | [Instagram](https://instagram.com/SEU_USUARIO)
 
 ---
 
