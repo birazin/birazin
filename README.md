@@ -9,7 +9,7 @@ Graduando em **Engenharia da Computação** na UNINORTE. Sou entusiasta de tecno
 - 🎓 Estudante de **Engenharia da Computação** na UNINORTE
 - 💻 Foco em **Desenvolvimento Web** (Front-end & Back-end) e **Automação / IoT**
 - ☕ Entusiasta de cafés, esportes, games e curiosidades do mundo animal
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ubirajarabruno) | [Instagram](https://instagram.com/SEU_USUARIO) | [E-mail](mailto:seu-email@exemplo.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ubirajarabruno) | [Instagram](https://www.instagram.com/offbirazin/) | [E-mail](mailto:filhobruno758@gmail.com)
 
 ---
 
@@ -44,4 +44,4 @@ Graduando em **Engenharia da Computação** na UNINORTE. Sou entusiasta de tecno
 ### 🤝 Conecte-se comigo
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ubirajarabruno)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/SEU_USUARIO)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/offbirazin/)
